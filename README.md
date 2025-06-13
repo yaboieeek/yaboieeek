@@ -1,4 +1,4 @@
-# Hello, I'm eeek
+# Hello there, 
 
 I develop **custom web automation scripts** (scraping, workflow optimization)
 And I also develop **web sites**
